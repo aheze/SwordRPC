@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "Socket",
-        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket.git",
+        "repositoryURL": "https://github.com/aheze/SwordRPC",
         "state": {
           "branch": null,
           "revision": "f33e2d3e6da0b5b286073e7091eefd0ca56ebc63",
